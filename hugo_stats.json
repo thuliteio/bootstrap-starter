@@ -1,0 +1,60 @@
+{
+  "htmlElements": {
+    "tags": [
+      "a",
+      "body",
+      "code",
+      "div",
+      "footer",
+      "h1",
+      "h2",
+      "head",
+      "header",
+      "html",
+      "li",
+      "link",
+      "meta",
+      "noscript",
+      "p",
+      "pre",
+      "script",
+      "span",
+      "style",
+      "title",
+      "ul"
+    ],
+    "classes": [
+      "btn",
+      "btn-dark",
+      "btn-outline-dark",
+      "col-lg-7",
+      "container",
+      "content",
+      "footer",
+      "home",
+      "justify-content-center",
+      "m-0",
+      "meta",
+      "monospace",
+      "ms-auto",
+      "navbar",
+      "navbar-brand",
+      "navbar-light",
+      "navbar-text",
+      "pb-5",
+      "px-3",
+      "quick-start",
+      "row",
+      "single",
+      "text-center",
+      "text-muted",
+      "wrap"
+    ],
+    "ids": [
+      "communities",
+      "documentation",
+      "get-started",
+      "requirements"
+    ]
+  }
+}
