@@ -1,5 +1,5 @@
 ---
-title : "Welcome to Thulite"
+title : "My Thulite site"
 description: "Congrats on setting up a new Thulite project!"
 lead: "Congrats on setting up a new Thulite project!"
 date: 2020-04-17T12:18:10+00:00
@@ -9,7 +9,9 @@ seo:
   title: "" # custom title (optional)
   description: "" # custom description (recommended)
   canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+  robots: "" # custom robot tags (optional)
 ---
 
-This line is from `./content/_index.md` :rocket:
+# Congrats on setting up a new Thulite project!
+
+This line is from `content/_index.md` :rocket:

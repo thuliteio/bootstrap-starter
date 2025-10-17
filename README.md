@@ -7,10 +7,19 @@ Official Bootstrap CSS starter
 Use the CLI:
 
 ```bash
-npm create thulite@latest -- --template bootstrap-starter
+npm create thulite@latest -- --template bootstrap
 ```
 
-Or:
+With recommended integrations  (SEO and Images):
 
-- [Open in Gitpod](https://gitpod.io/#https://github.com/thuliteio/bootstrap-starter)
-- [Create a new repository](https://github.com/thuliteio/bootstrap-starter/generate)
+```bash
+npm create thulite@latest -- --template bootstrap-rec
+```
+
+## Usage
+
+For detailed instructions, refer to our [documentation](https://docs.thulite.io/getting-started/).
+
+## Support
+
+Need assistance? Visit [Thulite Discussions](https://github.com/orgs/thuliteio/discussions) for help.
