@@ -30,6 +30,14 @@
   source = "node_modules/@thulite/core/layouts"
   target = "layouts"
 
+[[mounts]]
+  source = "node_modules/@thulite/seo/layouts"
+  target = "layouts"
+
+[[mounts]]
+  source = "node_modules/@thulite/images/layouts"
+  target = "layouts"
+
 ## i18n
 [[mounts]]
   source = "i18n"
@@ -47,6 +55,10 @@
 
 [[mounts]]
   source = "node_modules/@thulite/bootstrap/assets"
+  target = "assets"
+
+[[mounts]]
+  source = "node_modules/@thulite/images/assets"
   target = "assets"
 
 [[mounts]]

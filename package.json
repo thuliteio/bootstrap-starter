@@ -1,7 +1,7 @@
 {
-  "name": "bootstrap-starter",
+  "name": "bootstrap-starter-rec",
   "version": "0.0.0",
-  "description": "Thulite Bootstrap starter",
+  "description": "Thulite Bootstrap starter with recommended integrations",
   "author": "Thulite",
   "license": "MIT",
   "scripts": {
@@ -12,14 +12,16 @@
     "preview": "vite preview --outDir public"
   },
   "dependencies": {
-    "@thulite/bootstrap": "^1.2.2",
-    "thulite": "^2.6.3"
+    "@thulite/bootstrap": "^1.2.3",
+    "@thulite/images": "^3.3.4",
+    "@thulite/seo": "^2.4.3",
+    "thulite": "^2.6.4"
   },
   "devDependencies": {
-    "prettier": "^3.6.2",
-    "vite": "^7.0.6"
+    "prettier": "^3.8.1",
+    "vite": "^7.3.1"
   },
   "engines": {
-    "node": ">=20.11.0"
+    "node": ">=24.13.0"
   }
 }
